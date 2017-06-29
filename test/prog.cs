@@ -8,8 +8,11 @@ namespace test
 {
     class prog
     {
-        
-
+        public int testing;
+        public void test()
+        {
+            testing = 100;
+        }
        
     }
 }
